@@ -904,6 +904,24 @@
                     "dest-filename": "configure"
                 }
             ]
+        },
+        {
+            "name": "libgsystem",
+            "sources": [
+                {
+                    "type": "git",
+                    "url": "git://git.gnome.org/libgsystem"
+                }
+            ]
+        },
+        {
+            "name": "gnome-desktop-testing",
+            "sources": [
+                {
+                    "type": "git",
+                    "url": "git://git.gnome.org/gnome-desktop-testing"
+                }
+            ]
         }
     ]
 }
